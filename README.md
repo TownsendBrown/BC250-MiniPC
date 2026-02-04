@@ -1,5 +1,8 @@
 # BC250-MiniPC
 
+# Build
+![img](./images/BC250-MPC-Complete.png)
+
 ## Resources:
 ### BIOS with options unlocked ( https://gitlab.com/TuxThePenguin0/bc250-bios )
 ### APU Governor ( https://gitlab.com/mothenjoyer69/oberon-governor )
