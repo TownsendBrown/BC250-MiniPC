@@ -1,6 +1,4 @@
 # BC250 MiniPC 
-
-# Build
 ![img](./images/BC250-MPC-Complete.png)
 
 ## Description:
