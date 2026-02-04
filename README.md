@@ -1,7 +1,10 @@
-# BC250-MiniPC
+# BC250 MiniPC 
 
 # Build
 ![img](./images/BC250-MPC-Complete.png)
+
+## Description:
+### Hardwareless design, still ongoing.
 
 ## Resources:
 ### BIOS with VRAM options unlocked (https://gitlab.com/TuxThePenguin0/bc250-bios)
