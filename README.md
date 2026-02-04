@@ -9,7 +9,7 @@
 ### Better Documentation ( https://elektricm.github.io/amd-bc250-docs/ ) 
 ### More Documentation ( https://github.com/mothenjoyer69/bc250-documentation )
 
-## Parts List
+## Parts List:
 ### 1. Flex ATX PSU
 ### 2. 24 Pin ATX Power Supply Starter (Off/On Switch)
 ### 3. 2x 120mm PC Case Fans
