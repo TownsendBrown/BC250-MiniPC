@@ -1,6 +1,6 @@
 # BC250-MiniPC
 
-#Parts List
+Parts List
 1. Flex ATX PSU
 2. 24 Pin ATX Power Supply Starter (Off/On Switch)
 3. 2x 120mm PC Case Fans
