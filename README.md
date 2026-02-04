@@ -6,6 +6,7 @@
 ## Resources:
 ### BIOS with VRAM options unlocked (https://gitlab.com/TuxThePenguin0/bc250-bios)
 ### APU Governor (https://gitlab.com/mothenjoyer69/oberon-governor)
+## FLASH AT OWN RISK!
 ### Better Documentation (https://elektricm.github.io/amd-bc250-docs/) 
 ### More Documentation (https://github.com/mothenjoyer69/bc250-documentation)
 ### Flashing via USB (https://www.youtube.com/watch?v=_C93xYTJnO0)
